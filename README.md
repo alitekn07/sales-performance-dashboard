@@ -1,6 +1,6 @@
 <p align="center">
-   <a href="https://github.com/alitekn07/executive-sales-dashboard">
-      <img src="./SaleDashboard.jpeg" alt="Executive Sales Dashboard"/>
+   <a href="https://github.com/alitekn07/sales-performance-dashboard">
+      <img src="https://i.imgur.com/TKD2cf0.jpeg" alt="Executive Sales Dashboard"/>
    </a>
 </p>
 
