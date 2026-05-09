@@ -39,7 +39,7 @@ The objective of the project is to transform raw sales data into interactive and
 
 Main dataset used:
 
-- `Bolge Satis Dashboard Raw.xlsx`
+- `Sales_Report_Dashboard_Raw.xlsx`
 
 Additional assets:
 
@@ -55,6 +55,20 @@ The dataset includes:
 - Sales representatives
 - Regional sales distribution
 
+---
+
+# 📁 Project Structure
+
+```txt
+sales-performance-dashboard/
+│
+├── Sales_Report_Dashboard_Raw.xlsx
+├── Map.json
+├── Sales_Report_Dashboard.jpeg
+├── template.png
+├── Sales_Report_Dashboard.pbix
+└── README.md
+```
 ---
 
 # ⚙️ Dashboard Features
@@ -97,22 +111,36 @@ The dataset includes:
 
 ---
 
-# 📊 Dashboard Preview
+# 🎤 Summary
 
-## Main Dashboard
+I built a business-ready Power BI dashboard using sales and performance data, focusing on KPI tracking, revenue trends, regional analysis, and executive-level reporting.
 
-![Dashboard Preview](./SaleDashboard.jpeg)
+The dashboard was designed to simulate a real-world business intelligence reporting environment, emphasizing clarity, usability, interactivity, and business-focused decision support.
+
+This project demonstrates practical skills in:
+
+- KPI Reporting
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- DAX & Data Modeling
+- Executive Reporting
+- Sales Performance Analysis
 
 ---
 
-# 📁 Project Structure
+# 📄 Disclaimer
 
-```txt
-executive-sales-dashboard/
-│
-├── Bolge Satis Dashboard Raw.xlsx
-├── Map.json
-├── SaleDashboard.jpeg
-├── template.png
-├── Satis Rapor Proje.pbix
-└── README.md
+This project was created for educational and portfolio purposes.
+
+All dashboard design, DAX measures, KPI structures, and analytical logic were independently developed by the author.
+
+Brand names, logos, and visual elements used in this project are included solely for demonstration and presentation purposes.
+
+No confidential or proprietary business information is contained in this project.
+
+All rights to the analytical work, dashboard structure, and presentation of this project belong to the author. Unauthorized copying or redistribution of this project’s analytical content without proper attribution is discouraged.
+
+
+
+                                                               © 2026 Ali Tekin. All rights reserved.
