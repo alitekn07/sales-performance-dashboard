@@ -4,7 +4,7 @@
    </a>
 </p>
 
-# 📊 Executive Sales Performance Dashboard
+# 📊 Sales Performance Dashboard
 
 ## 📌 Project Overview
 
